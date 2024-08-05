@@ -1,5 +1,12 @@
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,windows)](https://skillicons.dev)
-##  I’m currently learning java and c++
+<h1 align="center">
+   Skills
+</h1>
+<p align="center"> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,java,windows,mysql,notion,vscode" />
+  </a>
+</p>
+I’m currently learning java and c++
 
 <!--
 **Cabero07/Cabero07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
