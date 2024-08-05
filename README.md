@@ -1,3 +1,4 @@
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,windows)](https://skillicons.dev)
 ##  I’m currently learning java and c++
 
 <!--
