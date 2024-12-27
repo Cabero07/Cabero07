@@ -3,7 +3,7 @@
 </h1>
 <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,java,html,css,js,windows,linux,ubuntu,mysql,notion,vscode" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,java,html,css,js,php,windows,linux,ubuntu,mysql,notion,vscode" />
   </a>
 </p>
 I’m currently learning java and c++
