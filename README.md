@@ -8,6 +8,8 @@
 </p>
 I’m currently learning java and c++
 
+![](https://raw.githubusercontent.com/Cabero007/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Cabero007/cf-stats/main/output/light_card.svg)
 
 ![](https://github-readme-stats.vercel.app/api?username=Cabero07&show_icons=true&theme=dark)
 
