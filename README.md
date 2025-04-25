@@ -11,7 +11,7 @@ I’m currently learning java and c++
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cabero07&show_icons=true&theme=dark)
 
-![](https://raw.githubusercontent.com/cabero07/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Cabero007/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 <!--
 **Cabero07/Cabero07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
