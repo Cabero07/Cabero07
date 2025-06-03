@@ -1,3 +1,9 @@
+<div align="center">  
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=00A6ED&center=true&vCenter=true&width=560&height=70&lines=Hello%21;I%27m+Lázaro+Javier%21+%F0%9F%91%8B">  
+</div>
+
+
+
 <h1 align="center">
    Skills
 </h1>
