@@ -31,9 +31,19 @@ I have experience in web development using various tools and frameworks, includi
 
 If you'd like to collaborate or discuss tech ideas, feel free to reach out! ✉️
 
-![](https://raw.githubusercontent.com/Cabero07/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+<div align="center">  
+    <img src="https://raw.githubusercontent.com/Cabero07/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
+</div>
+<!--
+<div align="center">  
+    <img src="https://github-readme-stats.vercel.app/api?username=Cabero07&show_icons=true&theme=dark" />
+</div>
+-->
+<div align="center">  
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cabero07&theme=github_dark" />  
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=Cabero07&show_icons=true&theme=dark)
+
 
 <!--
 **Cabero07/Cabero07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
