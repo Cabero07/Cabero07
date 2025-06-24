@@ -9,7 +9,7 @@
 </h1>
 <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,java,html,css,js,php,windows,linux,ubuntu,mysql,notion,vscode" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,java,html,css,tailwind,bootstrap,js,php,laravel,windows,linux,postgres,postman" />
   </a>
 </p>
 # 🚀 About Me
