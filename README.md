@@ -20,8 +20,9 @@ Hi! 👋 I'm a developer passionate about technology, currently working on a **l
 
 I have experience in web development using various tools and frameworks, including:
 
-- ⚡ **Programming Languages:** C++, PHP
-- 🎯 **Frameworks:** Yii2, Bootstrap
+- ⚡ **Programming Languages:** C++, PHP, Java
+- 🎯 **Frameworks:** Yii2,Laravel, Bootstrap, tailwind
+- 👨🏻‍💻 **Metodologías** SCRUM, Kanban, DevOps
 - 🚀 **Deployment:** Deploying applications to VPS and hosting services
 - 📊 **Databases:** Management and optimization
 - 🔗 **Dependency Management:** Efficient handling of packages and libraries in projects
